@@ -2,8 +2,9 @@
 
 CL-SMTP is a simple lisp smtp client. It works in ACL, SBCL, CMUCL, OPENMCL, LISPWORKS, CLISP and ECL.
 
+
 |---------+--------------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/cl-smtp/cl-smtp.git |
-| commit  | ed47d326                                               |
+| commit  | ed47d32                                                |
 | systems | cl-smtp                                                |
 |---------+--------------------------------------------------------|
